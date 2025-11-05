@@ -1,1 +1,2 @@
 Adicionada linha no teste
+Linha 2 de teste, comentário potente
